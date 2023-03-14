@@ -4,7 +4,17 @@ Soy desarrollador Web Full Stack orientado al Back End. Apasionado por las nueva
 Actualmente por medio de proyectos estoy mejorando mis habilidades tanto técnicas como blandas. Me gusta aprender algo nuevo todos los dias y dar valor agregado a mis grupos de trabajo.
 
 ### Conocimientos Techs:
-Javascript, HTML, Css ,Node, React, Redux, PostgreSQL, Sequelize, Express 
+
+	Javascript
+	HTML
+	CSS
+	Node
+	React
+	Redux
+	PostgreSQL
+	Sequalize
+	Express
+
 
 Metodología Agil: 
 Scrum
