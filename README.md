@@ -12,7 +12,7 @@ Scrum
 - 🌱 Actualmente aprendiendo Python.
 - 💻 Me encanta codear, amo el futbol ⚽ y viajar. 
 
-###Puedes encontrarme en:
+### Puedes encontrarme en:
 - [LinkedIn](www.linkedin.com/in/franco-nicolás-frías-8a2631216)  
 
 o envíame un email a:
