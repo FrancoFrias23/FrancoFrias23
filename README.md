@@ -5,15 +5,15 @@ Actualmente por medio de proyectos estoy mejorando mis habilidades tanto técnic
 
 ### Conocimientos Techs:
 
-	Javascript
-	HTML
-	CSS
-	Node
-	React
-	Redux
-	PostgreSQL
-	Sequalize
-	Express
+✔Javascript
+✔HTML	
+✔CSS
+✔Node
+✔React
+✔Redux
+✔PostgreSQL
+✔Sequalize
+✔Express
 
 
 Metodología Agil: 
