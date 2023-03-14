@@ -1,16 +1,13 @@
-### Hi there 👋
+Hola! Me llamo Franco Frías.
 
-<!--
-**FrancoFrias23/FrancoFrias23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador Web Full Stack orientado al Back End. Apasionado por las nuevas tecnologías y métodos de trabajo en equipo. Me gusta sacar lo mejor de todas las experiencias por eso busco constantemente nuevos desafíos para crecer.
+Actualmente por medio de proyectos estoy mejorando mis habilidades tanto técnicas como blandas. Me gusta aprender algo nuevo todos los dias y dar valor agregado a mis grupos de trabajo.
 
-Here are some ideas to get you started:
+Conocimientos en tecnología:
+Javascript, HTML, Css ,Node, React, Redux, PostgreSQL, Sequelize, Express 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Metodología Agil: 
+Scrum
+
+- 🌱 Actualmente aprendiendo Python.
+- 💻 Me encanta codear, amo el futbol ⚽ y viajar. 
